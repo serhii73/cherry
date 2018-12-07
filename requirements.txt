@@ -5,6 +5,7 @@ jaraco.functools==1.20
 more-itertools==4.3.0
 portend==2.3
 pytz==2018.7
+requests==2.20.1
 six==1.11.0
 tempora==1.14
 zc.lockfile==1.4
